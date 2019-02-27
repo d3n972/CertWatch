@@ -1,0 +1,1 @@
+0 */2 * * * /usr/bin/php /home/server/crtmonitor/call.php
